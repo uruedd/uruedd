@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @uruedd
+- 👀 I’m interested in Cyber security
+- 🌱 I’m currently learning Typescript,NodeJS,React
